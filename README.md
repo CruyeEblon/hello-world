@@ -1,2 +1,3 @@
 # hello-world
-it's a hello world thing, 
+yes this is for the tutorial start thing
+I know a bit of python 2, that's about it
